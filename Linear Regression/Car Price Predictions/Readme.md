@@ -22,7 +22,7 @@ You can install these libraries using the following command:
 
 The project is organized as follows:
 
-- `car_price_prediction.ipynb`: Jupyter notebook containing the main code for data preprocessing, feature engineering, model training, and evaluation using linear regression and Lasso regression algorithms.
+- `Car_price_prediction.ipynb`: Jupyter notebook containing the main code for data preprocessing, feature engineering, model training, and evaluation using linear regression and Lasso regression algorithms.
 - `car data.csv`: CSV file containing the dataset used for training and testing the models.
 - `README.md`: This file, providing documentation and instructions for the project.
 # Machine learning project steps
@@ -53,13 +53,13 @@ git clone https://github.com/Mugambi99/Machine-Learning/tree/main/Linear%20Regre
 
 2. Install the required libraries using the command mentioned in the "Requirements" section.
 
-3. Open the `car_price_prediction.ipynb` notebook in Jupyter or any other suitable environment.
+3. Open the `Car_price_prediction.ipynb` notebook in Jupyter or any other suitable environment.
 
 4. Run the notebook cells sequentially to preprocess the data, engineer features, train the linear regression and Lasso regression models, and evaluate their performance.
 
 5. Experiment with different hyperparameters, feature engineering techniques, and evaluation metrics to fine-tune the models and improve their accuracy.
 
-6. You can also modify the `data.csv` file or replace it with your own dataset to train the models on different data.
+6. You can also modify the `car data.csv` file or replace it with your own dataset to train the models on different data.
 
 ## Results
 
