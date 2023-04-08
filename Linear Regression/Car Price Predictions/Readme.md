@@ -23,25 +23,43 @@ You can install these libraries using the following command:
 The project is organized as follows:
 
 - `car_price_prediction.ipynb`: Jupyter notebook containing the main code for data preprocessing, feature engineering, model training, and evaluation using linear regression and Lasso regression algorithms.
-- `data.csv`: CSV file containing the dataset used for training and testing the models.
+- `car data.csv`: CSV file containing the dataset used for training and testing the models.
 - `README.md`: This file, providing documentation and instructions for the project.
+# Machine learning project steps
+
+Most machine learning projects follow a similar outline, which we'll also follow here.  This outline will help you tackle any machine learning problem.
+
+**Project Steps**
+
+1. Form a hypothesis.
+2. Find and explore the data.
+3. (If necessary) Reshape the data to predict your target.
+4. Clean the data for ML.
+5. Pick an error metric.
+6. Split your data.
+7. Train a model.
+
+## Data
+
+You can download the files we'll use in this project here:
+
+* [car data.csv](https://github.com/Mugambi99/Machine-Learning/blob/main/Linear%20Regression/Car%20Price%20Predictions/car%20data.csv)
+* [car_price_prediction.csv](https://github.com/Mugambi99/Machine-Learning/blob/main/Linear%20Regression/Car%20Price%20Predictions/car_price_prediction.csv) - this is the dataset with more features
 
 ## Usage
 
 1. Clone the repository to your local machine:
-git clone https://github.com/yourusername/car-price-prediction.git
+git clone https://github.com/Mugambi99/Machine-Learning/tree/main/Linear%20Regression/Car%20Price%20Predictions
 
+2. Install the required libraries using the command mentioned in the "Requirements" section.
 
+3. Open the `car_price_prediction.ipynb` notebook in Jupyter or any other suitable environment.
 
-3. Install the required libraries using the command mentioned in the "Requirements" section.
+4. Run the notebook cells sequentially to preprocess the data, engineer features, train the linear regression and Lasso regression models, and evaluate their performance.
 
-4. Open the `car_price_prediction.ipynb` notebook in Jupyter or any other suitable environment.
+5. Experiment with different hyperparameters, feature engineering techniques, and evaluation metrics to fine-tune the models and improve their accuracy.
 
-5. Run the notebook cells sequentially to preprocess the data, engineer features, train the linear regression and Lasso regression models, and evaluate their performance.
-
-6. Experiment with different hyperparameters, feature engineering techniques, and evaluation metrics to fine-tune the models and improve their accuracy.
-
-7. You can also modify the `data.csv` file or replace it with your own dataset to train the models on different data.
+6. You can also modify the `data.csv` file or replace it with your own dataset to train the models on different data.
 
 ## Results
 
