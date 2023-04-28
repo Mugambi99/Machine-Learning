@@ -16,7 +16,7 @@ To run this project, you will need the following software:
 
 To get started, download the Pima Indians Diabetes Dataset from [here](https://www.kaggle.com/uciml/pima-indians-diabetes-database). Alternatively, you can clone this repository to your local machine by running the following command:
 
-git clone https://github.com/yourusername/diabetes.git
+git clone https://github.com/mugambi99/Machine-Learning/Support-Vector-Machines/Diabetes.git
 
 
 Once you have the dataset and the repository cloned, you can run the `diabetes.ipynb` script to train the machine learning model and make predictions on new data. The script will load the dataset into a Pandas data frame, preprocess the data by scaling the features, and then split the data into training and testing sets. It will then train a support vector machine (SVM) model on the training data and use it to make predictions on the testing data.
