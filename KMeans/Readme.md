@@ -10,7 +10,7 @@ The Mall Customer dataset consists of the following features:
 - Gender: Gender of the customer (Male or Female)
 - Age: Age of the customer
 - Annual Income: Annual income of the customer in dollars
-- Spending Score: Score assigned to the customer based on their spending habits and behavior
+- Spending Score: A score assigned to the customer based on their spending habits and behavior
 
 The dataset is available in the `mall_customers.csv` file.
 
@@ -20,14 +20,14 @@ The following dependencies are required to run the code:
 
 - Python 3
 - pandas
-- numpy
-- scikit-learn
+- NumPy
+- sci-kit-learn
 - matplotlib
 
 
 ## Code
 
-The main code for performing K-means clustering on the dataset is available in the `kmeans_clustering.ipynb` Jupyter Notebook. It covers the following steps:
+The main code for performing K-means clustering on the dataset is available in the `customer_segmentation.ipynb` Jupyter Notebook. It covers the following steps:
 
 1. Loading and exploring the dataset
 2. Preprocessing the data (if required)
